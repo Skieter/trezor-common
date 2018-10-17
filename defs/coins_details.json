@@ -1,5 +1,35 @@
 {
     "coins": {
+        "bitcoin:Part": {
+            "links": {
+                "Github": "https://github.com/particl/particl-core",
+                "Homepage": "https://particl.io"
+            },
+            "marketcap_usd": 9163601102,
+            "name": "Particl",
+            "shortcut": "Part",
+            "t1_enabled": "yes",
+            "t2_enabled": "no",
+            "type": "coin",
+            "wallet": {
+                "Trezor": "https://wallet.trezor.io"
+            }
+        },
+        "bitcoin:tPart": {
+            "links": {
+                "Github": "https://github.com/particl/particl-core",
+                "Homepage": "https://particl.io"
+            },
+            "marketcap_usd": 9163601102,
+            "name": "Particl Testnet",
+            "shortcut": "tPart",
+            "t1_enabled": "yes",
+            "t2_enabled": "no",
+            "type": "coin",
+            "wallet": {
+                "Trezor": "https://wallet.trezor.io"
+            }
+        },
         "bitcoin:BCH": {
             "links": {
                 "Github": "https://github.com/Bitcoin-ABC/bitcoin-abc",
